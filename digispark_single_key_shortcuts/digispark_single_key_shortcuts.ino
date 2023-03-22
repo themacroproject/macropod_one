@@ -1,25 +1,24 @@
 /*
- Digispark Single Key Example
+ Macropod One: send keystrokes
 
  This sketch demonstrates how to perform shortcut operations 
  using a single key with the Digispark ATTiny85.
 
  Below is a list of predefined keys that you can use:
- https://github.com/themacroproject/arduino_code/Arduino_Keyboard_Macros.pdf
+ https://themacroproject.github.io/Arduino_Keyboard_Macros.pdf
 
  Circuit:
  * Digispark ATTiny85
  * wire to connect P1 to OUT of key1.
 
- created 3 March 2023
+ created 22 March 2023
  by Aniket Katkar
  THE MACRO PROJECT: https://themacroproject.github.io
 
  This example is in the public domain under MIT Licence
  https://opensource.org/license/mit/
 
- https://github.com/themacroproject/arduino_code
- https://github.com/themacroproject/circuit_design
+ https://github.com/themacroproject/macropod_one
  */
 
 #include "DigiKeyboard.h";

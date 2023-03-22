@@ -1,5 +1,5 @@
 /*
- Digispark Single Key Example
+ MacroPod One: send characters
 
  This sketch demonstrates how to set custom strings to a single 
  key for the Digispark ATTiny85.
@@ -16,8 +16,7 @@
  This example is in the public domain under MIT Licence
  https://opensource.org/license/mit/
 
- https://github.com/themacroproject/arduino_code
- https://github.com/themacroproject/circuit_design
+ https://github.com/themacroproject/macropod_one
  */
 
 #include "DigiKeyboard.h";
